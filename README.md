@@ -3,8 +3,7 @@
 
 [LIVE DEMO](http://thenocklist.com/css3/minimal/theme/index.html)
 
-1. DOWNLOAD THE [NOCKLIST CSS3 CONTENT INTEGRATION SYSTEM V2.01
- V2.01 ZIP](https://github.com/NOCKLIST/hscis201)
+1. DOWNLOAD THE [NOCKLIST CSS3 CONTENT INTEGRATION SYSTEM V2.01 ZIP](https://github.com/NOCKLIST/hscis201)
 
 2. REGISTER WITH [ZAZZLE](http://www.zazzle.com/)
 
